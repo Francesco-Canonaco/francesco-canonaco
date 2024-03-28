@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francesco-canonaco&label=Profile%20views&color=0e75b6&style=flat" alt="francesco-canonaco" /> </p>
 
-- 📫 How to reach me **francesco[dot]canonaco[at]minutia[dot]ai**
+- 📫 How to reach me: **francesco[dot]canonaco[at]minutia[dot]ai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
