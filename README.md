@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Francesco Canonaco</h1>
-<h3 align="center">PhD student @UNIMIB and DataScientist @minutia.ai</h3>
+<h3 align="center">Ph.D. student @UNIMIB and DataScientist @minutia.ai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francesco-canonaco&label=Profile%20views&color=0e75b6&style=flat" alt="francesco-canonaco" /> </p>
 
