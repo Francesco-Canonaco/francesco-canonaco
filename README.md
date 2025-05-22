@@ -32,9 +32,10 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bayesian%20Networks-ffcc00?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Causal%20Inference-0099cc?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Causal%20Networks-0099cc?style=flat-square" />
   <img src="https://img.shields.io/badge/-Machine%20Learning-0f9d58?style=flat-square" />
   <img src="https://img.shields.io/badge/-Data%20Science-f4b400?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Microbiome-0099cc?style=flat-square" />
 </p>
 
 ---
