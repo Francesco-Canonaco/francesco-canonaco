@@ -10,9 +10,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 Ph.D. student in Computer Science at the University of Milano-Bicocca
-- 🔬 My research focuses on **Bayesian Networks**, **Causal Inference**, and **Microbiome Analysis**
+- 🔬 My research focuses on **Bayesian Networks**, **Causal Networks**, and **Microbiome Analysis**
 - 🌍 I’m passionate about **AI for Healthcare**, with real-world experience in building ML pipelines and statistical models for microbiome-based diagnostics
-- 🧠 Currently exploring **Neural-Symbolic Computation**, **Dynamic Bayesian Networks**, and **Longitudinal Causal Discovery**
+
 
 ---
 
