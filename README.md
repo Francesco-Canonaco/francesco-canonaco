@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Francesco Canonaco</h1>
+<h1 align="center"> Hey there, I'm Francesco Canonaco</h1>
 <h3 align="center">Ph.D. Student @ UNIMIB | Research funded by <a href="https://www.minutia.ai" target="_blank">Minutia.AI</a></h3>
 
 <p align="center">
